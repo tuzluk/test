@@ -12,7 +12,7 @@ namespace JenkinsTest.Controllers
         public String Index()
         {
             //var hede = new DateTime("Murat23355");
-            return "Hello World 1-2";
+            return "Hello World";
         }
     }
 }
